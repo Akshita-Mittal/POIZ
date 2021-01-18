@@ -3078,6 +3078,7 @@ button.btn.add-btn:hover {
 	.address_container {
 		padding-left: 15px;
 		padding-right: 15px;
+		text-align: center;
 	}
 	.blume {
 		padding-top: 30px;
@@ -3098,7 +3099,8 @@ button.btn.add-btn:hover {
 		font-family: "Hurme Geometric Sans 1";
 	}
 	.blume-container {
-		text-align: center;
+		padding-left: 15px;
+		padding-right: 15px;
 	}
 	.blume-top h1 {
 		text-align: left;
