@@ -68,6 +68,7 @@
 	}
 	.cart-page-row {
 		display: block;
+		/* width: 100%; */
 	}
 	.cart-page-row .col-lg-8 {
 		max-width: 100%;
