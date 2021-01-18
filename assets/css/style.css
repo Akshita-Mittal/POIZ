@@ -3019,6 +3019,7 @@ button.btn.add-btn:hover {
 .blume-container {
 	padding-left: 80px;
 	padding-right: 80px;
+	text-align: center;
 }
 
 .blume-author {
@@ -3099,6 +3100,9 @@ button.btn.add-btn:hover {
 	.blume-container {
 		padding-left: 15px;
 		padding-right: 15px;
+	}
+	.blume-top h1 {
+		text-align: left;
 	}
 	.blume .container-fluid {
 		position: relative;
@@ -4551,9 +4555,9 @@ input#quantity {
   }
   
 
-  input#quantity {
+  /* input#quantity {
     top: 3px;
-}
+} */
 
   .discount__field .apply__btn {   
     margin-left: 10px;
@@ -4714,7 +4718,7 @@ input#quantity {
 	}
 	.qut__item_c .input-group {
 		width: 81px;
-		height: 34px;
+		/* height: 34px; */
 	}
 	input#quantity {
 		font-size: 15px !important;
@@ -4745,7 +4749,7 @@ input#quantity {
 	}
 	.close__slide_cart {
 		right: 15px;
-		top: 18px;
+		top: 10px;
 	}
 	.duscount__box {
 		padding: 11px 15px;

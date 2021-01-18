@@ -348,8 +348,8 @@
 	.bottom-content-right ul li {
 		padding: 0px 20px;
 	}
-	.footer-top-heading {
-		font-size: 16px;
+	.footer-top-heading, .bottom-content-left a {
+		font-size: 13px;
 	}
 	.page-links ul li a {
 		font-size: 14px;
