@@ -3098,8 +3098,7 @@ button.btn.add-btn:hover {
 		font-family: "Hurme Geometric Sans 1";
 	}
 	.blume-container {
-		padding-left: 15px;
-		padding-right: 15px;
+		text-align: center;
 	}
 	.blume-top h1 {
 		text-align: left;
