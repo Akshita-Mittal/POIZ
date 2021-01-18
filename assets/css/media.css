@@ -76,6 +76,9 @@
 }
 
 @media (max-width: 991px) {
+	.checkout-product-wrap ul {
+		padding: 0;
+	}
 	.checkout-product .checkout-product-right .mobile-only {
 		display: none;
 	}
@@ -87,6 +90,7 @@
 	}
 	.cart-content-right {
 		width: 100%;
+		margin: 0;
 	}
 	.site-header .navbar-nav .nav-item {
 		margin: 0;
